@@ -1,0 +1,8 @@
+name,age,dept,city,salary,email
+ajay,22,EEE,HYD,20000,ajay@gmail.com
+ram,23,ECE,BANGLR,30000,ram@gmail.com
+teja,24,CSE,MUMBAI,40000,teja@gmail.com
+charan,25,MEC,CHENNAI,50000,charan@gmail.com
+chandu,26,EEE,DELHI,60000,chandu@gmail.com
+vamsi,27,CSE,ASSAM,70000,vamsi@gmail.com
+prem,28,CSE,HYD,80000,prem@gmail.com
